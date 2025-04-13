@@ -12,8 +12,4 @@ Live demo on Github Pages: [https://erxiong0.github.io/chichi-gitbook](https://e
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-## Why Jekyll with GitBook
-
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-
 
