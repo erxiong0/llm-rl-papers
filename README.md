@@ -17,4 +17,4 @@ Welcome to this comprehensive resource dedicated to introducing and discussing a
 
 ## Look Inside
 
-Jump to my full-fledged resource at [https://erxiong0.github.io/chichi - gitbook](https://erxiong0.github.io/chichi - gitbook) to explore more in-depth content, code examples, and case studies related to reinforcement learning algorithms.
+Jump to my full-fledged resource at [https://erxiong0.github.io/chichi-gitbook](https://erxiong0.github.io/chichi-gitbook) to explore more in-depth content, code examples, and case studies related to reinforcement learning algorithms.
