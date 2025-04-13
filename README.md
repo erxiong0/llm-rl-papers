@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Reinforcement Learning Algorithm
+title: Reinforcement Learning Algorithms
 permalink: /
 description: Explore the fascinating world of reinforcement learning algorithms, with in - depth discussions and insights.
 ---
