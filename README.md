@@ -5,8 +5,6 @@ permalink: /
 description: Explore the fascinating world of reinforcement learning algorithms, with in - depth discussions and insights.
 ---
 
-# Reinforcement Learning Algorithm
-
 Welcome to this comprehensive resource dedicated to introducing and discussing a wide array of reinforcement learning algorithms. Reinforcement learning is a powerful paradigm in artificial intelligence where an agent learns to make optimal decisions in an environment to maximize a cumulative reward.
 
 ## Key Highlights
