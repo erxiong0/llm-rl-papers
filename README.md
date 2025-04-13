@@ -12,8 +12,8 @@ Welcome to this comprehensive resource dedicated to introducing and discussing a
 ## Key Highlights
 
 - **Diverse Algorithm Coverage**: I will delve into classic algorithms like Q - Learning, SARSA, and their extensions, as well as more advanced techniques such as Deep Q - Networks (DQN), Proximal Policy Optimization (PPO), and Trust Region Policy Optimization (TRPO).
-- **In - depth Explanations**: Each algorithm will be presented with detailed explanations of its underlying principles, mathematical formulations, and practical implementation aspects.
-- **Real - world Applications**: Discover how these algorithms are applied in various fields, including robotics, game playing, autonomous vehicles, and resource management.
+- **In-depth Explanations**: Each algorithm will be presented with detailed explanations of its underlying principles, mathematical formulations, and practical implementation aspects.
+- **Real-world Applications**: Discover how these algorithms are applied in various fields, including robotics, game playing, autonomous vehicles, and resource management.
 
 ## Look Inside
 
