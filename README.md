@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Reinforcement Learning Algorithms
+title: A Note of Remarkable Ideas
 permalink: /
-description: Explore the fascinating world of reinforcement learning algorithms, with in - depth discussions and insights.
+description: 
 ---
 
-Welcome to this comprehensive resource dedicated to introducing and discussing a wide array of reinforcement learning algorithms. Reinforcement learning is a powerful paradigm in artificial intelligence where an agent learns to make optimal decisions in an environment to maximize a cumulative reward.
+Welcome! This space is dedicated to collecting, exploring, and sharing remarkable, quirky, or thought-provoking ideas I encounter — whether from papers, videos, daily observations, or curious rabbit holes.
 
-## Key Highlights
+## What You'll Find Here
 
-- **Diverse Algorithm Coverage**: I will delve into classic algorithms like Q-Learning, SARSA, and their extensions, as well as more advanced techniques such as Deep Q-Networks (DQN), Proximal Policy Optimization (PPO), and Trust Region Policy Optimization (TRPO).
-- **In-depth Explanations**: Each algorithm will be presented with detailed explanations of its underlying principles, mathematical formulations, and practical implementation aspects.
-- **Real-world Applications**: Discover how these algorithms are applied in various fields, including robotics, game playing, autonomous vehicles, and resource management.
+- **Fresh Perspectives**: Reflections on paradoxes, plot holes, and hidden patterns in stories and media that spark curiosity.
+- **Unconventional Thoughts**: Notes on unexpected viewpoints or theories that challenge intuition or common sense.
+- **Ideas Worth Remembering**: Short summaries and commentaries on ideas, concepts, or arguments that feel innovative, elegant, or simply fun to revisit.
 
-## Look Inside
+## Explore More
 
-Jump to my full-fledged resource at [https://erxiong0.github.io/llm-rl-papers](https://erxiong0.github.io/llm-rl-papers) to explore more in-depth content, code examples, and case studies related to reinforcement learning algorithms.
+Visit my growing collection at [https://erxiong0.github.io/llm-rl-papers](https://erxiong0.github.io/llm-rl-papers) for deeper dives into topics like reinforcement learning, AI, and other fields where strange yet brilliant ideas often emerge.
